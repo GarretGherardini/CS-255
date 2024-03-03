@@ -1,11 +1,17 @@
 # CS-255
 
-# Briefly summarize the DriverPass project. Who was the cliet? What type of system did they want you to design?
+#_ Briefly summarize the DriverPass project. Who was the cliet? What type of system did they want you to design?_
+# Our client, DriverPass, is a small company providing driving lesson services and is looking to automate their existing system to perform a variety of functions. DriverPass anticipates the new system to grant students access to online practice exams, reserve driving lessons, and provide their administrative team with access to view/schedule/edit driving reservations and run reports.
 
-# What did you do particularly well?
+# _What did you do particularly well?_
+# I believe the preperation of the system that was provided to the client was done particularly well. Generating plans and producing a requirements document is essential to having a mutual understanding of the expectations for the functionality of the system. Maintaining closed-loop communciation ensures the needs of the client are met prior to the start of the system design. Utilizing non-technical language is imperative to providing the client with a solid understanding of our intentions with the system, coupled with visuals that clearly demonstrate the systems intended functionality. 
 
-# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+# _If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?_
+# If I could choose one part of my work from these documents to revise, I would change my approach to the UML Activity Diagrams. I believe when presenting these diagrams to our client they should have been worded in a simpler format to aid in the comprehension.
 
 # How did you interpret the user's needs and implement them into your system design? Why is it so important to consider the user's needs when designing?
+# I interpreted the user's needs by breaking down their expectations into chunks. It is important to understand all of the client's critera before implementing the design so nothing is overlooked and all of their expectations are met. With each component the client desired to have included into the system, it was imperative for that information to be included in the requirements gathering document. This provided an overview for the expectations of the system and allowed for a clear design path. 
 
-# How do you approach designing softare? What techniques or strategies would you use in the future to analyze and design a system?
+# _How do you approach designing softare? What techniques or strategies would you use in the future to analyze and design a system?_
+# I think the best way to approach designing software should be inclusive of both top-down design and bottom-up design. Top-down design enables the designer to produce a broad understanding of how the system should function upon completion followed by decomposing individual functions to see how each process should be implemented to successfully produce a functioning system. Bottom-down design does the opposite: starting with basic functionality of each step then building to higher-level functions within the system. Both approaches provide a means of seeing the system from the individualized functions and intended uses, to the broad over-arching format of the system when each component is fully-functional. 
+# To effectively design a system, it must be done in steps. Gathering project requirements and understanding what outcomes the system must produce should be done before anything else. Once requirements are collected, construction of diagrams and outlines that showcase both high-level and low-level functions of the system provide a more detailed design of the system's relationships between actors and objects. Following the completion of diagrams and outlines, the design can be implemented and fulfill the client's expectations. 
