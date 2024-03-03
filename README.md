@@ -1,7 +1,7 @@
 # CS-255
 
 # _Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?_
-# Our client, DriverPass, is a small company providing driving lesson services and is looking to automate their existing system to perform a variety of functions. DriverPass anticipates the new system to grant students access to online practice exams, reserve driving lessons, and provide their administrative team with access to view/schedule/edit driving reservations and run reports.
+# Our client, DriverPass, is a small company who provides driving lesson services, looking to automate their existing system. DriverPass anticipates the new system to grant students access to online practice exams, reserve driving lessons, and provide their administrative team with access to view/schedule/edit driving reservations and run reports.
 
 # _What did you do particularly well?_
 # I believe the preperation of the system that was provided to the client was done particularly well. Generating plans and producing a requirements document is essential to having a mutual understanding of the expectations for the functionality of the system. Maintaining closed-loop communciation ensures the needs of the client are met prior to the start of the system design. Utilizing non-technical language is imperative to providing the client with a solid understanding of our intentions with the system, coupled with visuals that clearly demonstrate the systems intended functionality. 
