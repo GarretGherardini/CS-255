@@ -1,6 +1,6 @@
 # CS-255
 
-#_ Briefly summarize the DriverPass project. Who was the cliet? What type of system did they want you to design?_
+# _Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?_
 # Our client, DriverPass, is a small company providing driving lesson services and is looking to automate their existing system to perform a variety of functions. DriverPass anticipates the new system to grant students access to online practice exams, reserve driving lessons, and provide their administrative team with access to view/schedule/edit driving reservations and run reports.
 
 # _What did you do particularly well?_
