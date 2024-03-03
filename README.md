@@ -9,7 +9,7 @@
 # _If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?_
 # If I could choose one part of my work from these documents to revise, I would change my approach to the UML Activity Diagrams. I believe when presenting these diagrams to our client they should have been worded in a simpler format to aid in their comprehension of the process being executed.
 
-# How did you interpret the user's needs and implement them into your system design? Why is it so important to consider the user's needs when designing?
+# _How did you interpret the user's needs and implement them into your system design? Why is it so important to consider the user's needs when designing?_
 # I interpreted the user's needs by breaking down their expectations into chunks. It is important to understand all of the client's critera before implementing the design so nothing is overlooked and all of their expectations are met. With each component the client desired to have included into the system, it was imperative for that information to be included in the requirements gathering document. This provided an overview for the expectations of the system and allowed for a clear design path. 
 
 # _How do you approach designing softare? What techniques or strategies would you use in the future to analyze and design a system?_
